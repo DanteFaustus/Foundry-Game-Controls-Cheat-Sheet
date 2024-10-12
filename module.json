@@ -25,8 +25,8 @@
       }
     }
   ],
-    "manifest": "https://github.com/DanteFaustus/ronin-foundry-vtt/raw/main/module.json",
+    "manifest": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/raw/main/module.json ",
     "download": "https://github.com/DanteFaustus/ronin-foundry-vtt/raw/main/ronin-mork-borg.zip",
-    "readme": "https://github.com/DanteFaustus/ronin-foundry-vtt/blob/main/README.md"
+    "readme": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/blob/main/README.md"
     "url": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet"
 }
