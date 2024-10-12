@@ -1,32 +1,28 @@
 {
-  "id": "game-controls-cheat-sheet",
-  "title": "Game Controls Cheat Sheet",
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "11",
-    "verified": "11"
-  },
-  "description": "A simple single journal for Foundry VTT entry which can be added to any game that show most common game controls.",
-  "authors": [
-    {
-      "name": "DanteFaustus",
-      "discord": "DanteFaustus"
-    }
-  ],
-  "packs": [
-    {
-      "name": "cheat-sheet",
-      "label": "Cheat Sheet",
-      "path": "packs/cheat-sheet",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    }
-  ],
-    "manifest": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/raw/main/module.json ",
-    "download": "https://github.com/DanteFaustus/ronin-foundry-vtt/raw/main/ronin-mork-borg.zip",
-    "readme": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/blob/main/README.md"
-    "url": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet"
+	"id": "game-controls-cheat-sheet",
+	"title": "Game Controls Cheat Sheet",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11"
+	},
+	"description": "A simple single journal for Foundry VTT entry which can be added to any game that show most common game controls.",
+	"authors": [{
+		"name": "DanteFaustus",
+		"discord": "DanteFaustus"
+	}],
+	"packs": [{
+		"name": "cheat-sheet",
+		"label": "Cheat Sheet",
+		"path": "packs/cheat-sheet",
+		"type": "JournalEntry",
+		"ownership": {
+			"PLAYER": "OBSERVER",
+			"ASSISTANT": "OWNER"
+		}
+	}],
+	"manifest": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/raw/main/module.json ",
+	"download": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/raw/main/game-controls-cheat-sheet.zip",
+	"readme": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/blob/main/README.md",
+	"url": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet"
 }
