@@ -21,7 +21,7 @@
 			"ASSISTANT": "OWNER"
 		}
 	}],
-	"manifest": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/raw/main/module.json ",
+	"manifest": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/raw/main/module.json",
 	"download": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/raw/main/game-controls-cheat-sheet.zip",
 	"readme": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet/blob/main/README.md",
 	"url": "https://github.com/DanteFaustus/Foundry-Game-Controls-Cheat-Sheet"
